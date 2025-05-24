@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and lifelong 
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/samrudh-raikote-039749319)
-- 🌐 [Portfolio](https://samrudhraikote.me) *(if you have one)*
+- 🌐 [Portfolio](https://samrudhraikote.me)
 
 Thanks for stopping by! Feel free to check out my pinned repos and drop a ⭐ if something interests you! 😄
