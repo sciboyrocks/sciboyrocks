@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Samrudh Raikote
 
 Welcome to my GitHub profile! I'm a passionate developer, student, and lifelong learner currently diving deep into the world of **Artificial Intelligence & Machine Learning**. I enjoy building projects that are meaningful, practical, and sometimes just plain fun.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and lifelong 
 - 💻 I love working on Python, full-stack development, and automation tools
 - 📈 Building stock/forex trading bots and real-time dashboards
 - 🧠 Exploring mental health tech with AI-powered support systems
-- 🛠️ Currently working on: a fully automated Forex trading interface and a CBT-based mental health chatbot
+- 🛠️ Currently working on: Serenade, one stop destination to make your love life the best.
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
