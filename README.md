@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and lifelong 
 - 💻 I love working on Python, full-stack development, and automation tools
 - 📈 Building stock/forex trading bots and real-time dashboards
 - 🧠 Exploring mental health tech with AI-powered support systems
-- 🛠️ Currently working on: Serenade, one stop destination to make your love life the best.
+- 🛠️ Currently working on: FinTrack, a comprehensive platform that addresses all your financial tracking requirements.
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
