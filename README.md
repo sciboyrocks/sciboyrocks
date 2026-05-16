@@ -1,6 +1,7 @@
 # samrudh raikote
 
 Student AI/ML @ BMSCE. I build things -> trading infrastructure -> iOS apps -> dev tooling -> automation pipelines -> etc. Most of it started at midnight.
+
 I build, break it, fix it, ship it.
 
 ---
