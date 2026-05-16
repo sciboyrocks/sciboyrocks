@@ -1,30 +1,41 @@
-# 👋 Hey there! I'm Samrudh Raikote
+# samrudh raikote
 
-Welcome to my GitHub profile! I'm a passionate developer, student, and lifelong learner currently diving deep into the world of **Artificial Intelligence & Machine Learning**. I enjoy building projects that are meaningful, practical, and sometimes just plain fun.
+AI/ML @ BMSCE. I build things trading infrastructure, iOS apps, dev tooling, automation pipelines. Most of it started at midnight.
 
-## 🚀 About Me
-- 🎓 B.Tech in AI/ML @ BMS College of Engineering
-- 💻 I love working on Python, full-stack development, and automation tools
-- 📈 Building stock/forex trading bots and real-time dashboards
-- 🧠 Exploring mental health tech with AI-powered support systems
-- 🛠️ Currently working on: FinTrack, a comprehensive platform that addresses all your financial tracking requirements.
+I don't read about building. I build, break it, fix it, ship it.
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+---
 
-## 📂 Projects
-- 🔥 **XAUUSD Bot** – A smart, real-time trading bot with TP/SL management and live charting
-- 🧘 **MindHaven** – A mental health support chatbot using CBT techniques and emotional detection
-- 📊 **TradeTrack** – A dark-themed dashboard to monitor your trades, positions, and performance
+### what I'm working on
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/samrudh-raikote-039749319)
-- 🌐 [Portfolio](https://samrudhraikote.com)
+- **ARC** — personal daily OS for iOS. AI-generated outfits, study mode driven by exam proximity, habit tracking across work/body/build/life. the app i actually use every day.
+- **Serenade** — consumer iOS app for couples. shared goals, date planner, love notes, widgets.
+- **PRactice** — open source training platform. turns real GitHub issues into graded challenges. no fake problems.
 
-Thanks for stopping by! Feel free to check out my pinned repos and drop a ⭐ if something interests you! 😄
+---
+
+### things I've built
+
+| project | what |
+|---|---|
+| multi-account trading engine | TradingView → Redis pub-sub → 10 VMs, each running a live brokerage account. ₹5L/user. shut down because SEBI. |
+| LetMeCook | dockerized cloud dev environment. VS Code in browser, cloudflare tunnels, task boards, AI assistant, auto backups. one `docker compose up`. |
+| cold emailer pipeline | OSM + Google Places → crawl → LLM analysis → personalised outreach. ~2300 leads. ₹0 ad spend. |
+| algo trading platform | strategy builder, backtester, payoff graphs, signal-to-trade. NSE/BSE + Forex. |
+| IRIS | personal AI assistant. morning briefings, automation, misc things i'm too lazy to do. |
+| CultFit booker | Charles Proxy → intercepted mobile API → auto-books boxing classes before they fill up |
+| XAUUSD SMC bot | gold trading bot. smart money concepts + HFT logic. live execution. |
+
+---
+
+### stack
+
+Python · Swift/SwiftUI · TypeScript · Next.js · Fastify · Redis · Docker · Linux · LLMs
+
+infra lives on a Dell Vostro Ubuntu server in my room.
+
+---
+
+### links
+
+[portfolio](https://samrudhraikote.com) · [linkedin](https://www.linkedin.com/in/samrudh-raikote-039749319)
