@@ -1,6 +1,6 @@
 # samrudh raikote
 
-AI/ML @ BMSCE. I build things trading infrastructure, iOS apps, dev tooling, automation pipelines. Most of it started at midnight.
+Student AI/ML @ BMSCE. I build things -> trading infrastructure -> iOS apps -> dev tooling -> automation pipelines -> etc. Most of it started at midnight.
 
 I don't read about building. I build, break it, fix it, ship it.
 
@@ -9,8 +9,10 @@ I don't read about building. I build, break it, fix it, ship it.
 ### what I'm working on
 
 - **ARC** — personal daily OS for iOS. AI-generated outfits, study mode driven by exam proximity, habit tracking across work/body/build/life. the app i actually use every day.
-- **Serenade** — consumer iOS app for couples. shared goals, date planner, love notes, widgets.
-- **PRactice** — open source training platform. turns real GitHub issues into graded challenges. no fake problems.
+- **Serenade** — consumer iOS couples app. shared goals, date planner, love notes, widgets.
+- **Amore** — ESP32 lamp that connects to Serenade. BLE + MQTT, touch controls, haptic feedback, updates the second your partner changes their mood or misses you. could've used WLED. didn't. writing firmware from scratch — fixing race conditions, memory allocation, state management. basically an OS to make someone happy.
+- **Univast** — all-in-one platform for content creators. upload, create, manage, distribute. one place for everything.
+- **cold emailer pipeline** — iterating. better data enrichers, deeper scrapers, production-grade hardening. still ₹0 ad spend.
 
 ---
 
@@ -24,6 +26,7 @@ I don't read about building. I build, break it, fix it, ship it.
 | algo trading platform | strategy builder, backtester, payoff graphs, signal-to-trade. NSE/BSE + Forex. |
 | IRIS | personal AI assistant. morning briefings, automation, misc things i'm too lazy to do. |
 | CultFit booker | Charles Proxy → intercepted mobile API → auto-books boxing classes before they fill up |
+| PRactice | discovers real GitHub repos → extracts solved issues → structured graded challenges. automated end to end. no toy problems. |
 | XAUUSD SMC bot | gold trading bot. smart money concepts + HFT logic. live execution. |
 
 ---
@@ -38,4 +41,4 @@ infra lives on a Dell Vostro Ubuntu server in my room.
 
 ### links
 
-[portfolio](https://samrudhraikote.com) · [linkedin](https://www.linkedin.com/in/samrudh-raikote-039749319)
+[portfolio](https://samrudhraikote.com) · [linkedin](https://www.linkedin.com/in/samrudhraikote)
